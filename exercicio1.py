@@ -1,4 +1,4 @@
-# Exercício 4: Escreva um programa que leia o código de origem de um 
+# Exercício 4 - Escreva um programa que leia o código de origem de um 
 # produto e imprima na tela a região de sua procedência, conforme 
 # a tabela abaixo:
 # Observação: caso o código não seja nenhum dos especificados, o 
