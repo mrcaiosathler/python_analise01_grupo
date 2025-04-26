@@ -75,7 +75,7 @@ elif codigo == 4:
     regiao = "Oeste"
 elif codigo == 5 or codigo == 6:
     regiao = "Nordeste"
-elif codigo in [7,8.9]:
+elif codigo in [7,8,9]:
     regiao = "Sudeste"
 elif 10 <= codigo <= 20:
     regiao = "Centro-Oeste"
